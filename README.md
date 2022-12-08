@@ -13,7 +13,7 @@
 
 ->Python programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.
 
-->Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
+->Python language is being used by almost all tech-giant companies 
 
 ->The biggest strength of Python is huge collection of standard library which can be used for the following:
 
