@@ -9,14 +9,23 @@ Python Programming Language:
 ->Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
 
 ->The biggest strength of Python is huge collection of standard library which can be used for the following:
+
     1. Machine Learning
+    
     2. GUI Applications (like Kivy, Tkinter, PyQt etc. )
+    
     3. Web frameworks like Django (used by YouTube, Instagram, Dropbox)
+    
     4. Image processing (like OpenCV, Pillow)
+    
     5. Web scraping (like Scrapy, BeautifulSoup, Selenium)
+    
     6. Test frameworks
+    
     7. Multimedia
+    
     8. Scientific computing
+    
     9. Text processing and many more..
  
 <!DOCTYPE html>
