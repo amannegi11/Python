@@ -1,4 +1,13 @@
-Python Programming Language:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Python Programming Language:</h1><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="" width="50px">
 
 ->Python is currently the most widely used multi-purpose, high-level programming language.
 
@@ -28,15 +37,7 @@ Python Programming Language:
     
     9. Text processing and many more..
  
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <img src="https://cdn-images-1.medium.com/max/2000/1*SSutxOFoBUaUmgeNWAPeBA.jpeg" alt="">
+
+    <img src="https://www.technotification.com/wp-content/uploads/2017/05/Python-programming-for-hackers-compressed.jpg" alt="">
 </body>
 </html>
