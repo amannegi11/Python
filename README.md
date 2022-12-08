@@ -38,6 +38,6 @@
     9. Text processing and many more..
  
 
-    <img src="https://www.technotification.com/wp-content/uploads/2017/05/Python-programming-for-hackers-compressed.jpg" alt="">
+<img src="https://www.technotification.com/wp-content/uploads/2017/05/Python-programming-for-hackers-compressed.jpg" alt="">
 </body>
 </html>
